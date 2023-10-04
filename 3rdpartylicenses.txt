@@ -183,6 +183,7 @@ to represent the company, product, or service to which they refer.**
 
 
 ngx-action-toastr
+MIT
 
 rxjs
 Apache-2.0
